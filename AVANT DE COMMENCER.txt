@@ -35,10 +35,9 @@
     Le script se chargera de passer les paramètres necéssaire à chaque exercice.
 
     -----------------------------------
-
-    Lorsque vous avez terminé la suite ENTIERE d'exercices, faites une pull-request.    
-    Lorsque vous avez terminé la suite ENTIERE d'exercices, faites une pull-request.    
-    Lorsque vous avez terminé la suite ENTIERE d'exercices, faites une pull-request.    
+    
+    N'oubliez pas de push sur votre dépot, et de laisser votre dernière version sur la "master"
+    Le script de correction va donc clone votre dépot, et utiliser la "master".
 
     Bonne continuation
 
