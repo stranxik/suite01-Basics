@@ -14,7 +14,7 @@
 
         - un attribut "fullName" pour le prénom et le nom ensemble "toto tata"
         - un attribut "age" pour l'age de la personne
-        - une fonction "isAdult" pour tester si la personne est majeur;
+        - une fonction "isAdult" pour tester si la personne est majeur: retourne true si l'age de la personne est d'au moins 18 ans, false si en dessous;
 
 */
 
