@@ -1,6 +1,6 @@
 /*
 
-    Eval Expr
+       Eval Expr
 
     // // // step 1
 
@@ -16,7 +16,6 @@
     // evalExpr(3, 3, "-"); // 0
     // evalExpr(10, 2, "/"); // 5
 
-    // evalExpr(2, 0, "%"); // 0
     // evalExpr(10, 0, "/"); // 0
 
     // Validation:
@@ -27,23 +26,20 @@
 
     // // // step 2
 
-    // Code a function "getRandNum" that return a random number between 0(included) and 10 000(included).
+    // Code a function "getRandNum" that return a random number between 100(included) and 1000(included).
 
     // Validation:
     // really random please.
 
-    // Code a function "getSign" that return a random number between 0(included) and 4(included).
-
-    // Validation:
-    // Reuse getRandNum
+    // Code a function "getRandSign" that return a random number between 0(included) and 4(included).
 
     // // // step 3
 
-    // Write a function "generateCalculs" that can generate random calculs and display the result in the console;
+    // Write a function "generateCalcul" that can generate random calcul and display the result in the console;
     // We will pass a number, which is the desired number calculs.
 
     Tips:
-    Reuse getSign ;)
+    Reuse getRandSign & getRandNum ;)
     
     // // // step 4 - BONUS
 
