@@ -16,6 +16,7 @@
     // evalExpr(3, 3, "-"); // 0
     // evalExpr(10, 2, "/"); // 5
 
+    // evalExpr(2, 0, "%"); // 0
     // evalExpr(10, 0, "/"); // 0
 
     // Validation:
